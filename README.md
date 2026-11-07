@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**chitramahanty/chitramahanty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Chitra Mahanty! 👋
 
-Here are some ideas to get you started:
+### B.Tech Computer Science & Engineering Student | Aspiring Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student passionate about learning web development and exploring new technologies.
+
+- 🎓 Pursuing B.Tech in Computer Science & Engineering at Techno India University.
+- 💻 Learning HTML, CSS and JavaScript.
+- 🌱 Exploring Frontend Development and Software Engineering.
+- 🚀 Working towards building practical web development projects.
+- 🤝 Open to learning, collaboration and internship opportunities.
+
+### 🛠️ Technical Skills
+
+- HTML5
+- CSS3
+- JavaScript (Basics)
+- C++
+- Python
+
+### 🎯 Current Goals
+
+- Improve my frontend development skills.
+- Build real-world web projects.
+- Contribute to GitHub projects.
+- Gain practical experience through internships.
+
+### 🔗 Connect With Me
+
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/chitra-mahanty-5923a6317)
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
+
